@@ -1,0 +1,290 @@
+{
+    "propertyData": [
+        {
+            "id": 1,
+            "cityName": "Paris",
+            "address": {
+                "loactionRaod": "8558 Pecan St.",
+                "locationAddress": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536"
+            },
+            "images": {
+                "img1": "assets/ToyotaRAV41.png",
+                "img2": "assets/ToyotaRAV42.png",
+                "img3": "assets/ToyotaRAV43.png",
+                "img4": "assets/ToyotaRAV42.png"
+            },
+            "room": 3,
+            "bed": 4,
+            "bath": 1,
+            "area": 732,
+            "price": 7255,
+            "popular": false,
+            "for": "For Rent",
+            "createdAt": ""
+        },
+        {
+            "id": 2,
+            "cityName": "New York",
+            "address": {
+                "loactionRaod": "8558 Parker Rd.",
+                "locationAddress": "Costco Wholesale - 1021 Oak Forest ln, Myrtle Beach, SC"
+            },
+            "images": {
+                "img1": "assets/BMW3Series1.jpg",
+                "img2": "assets/BMW3Series2.jpg",
+                "img3": "assets/BMW3Series3.jpg",
+                "img4": "assets/BMW3Series2.jpg"
+            },
+            "room": 3,
+            "bed": 4,
+            "bath": 1,
+            "area": 732,
+            "price": 7255,
+            "popular": true,
+            "for": "For Rent",
+            "createdAt": ""
+        },
+        {
+            "id": 3,
+            "cityName": "London",
+            "address": {
+                "loactionRaod": "3890 Poplar Dr.",
+                "locationAddress": "Regal North Hills - 4150 Main at North Hills St, Releigh"
+            },
+            "images": {
+                "img1": "assets/VolkswagenTCross1.jpg",
+                "img2": "assets/VolkswagenTCross2.jpg",
+                "img3": "assets/VolkswagenTCross3.jpg",
+                "img4": "assets/VolkswagenTCross2.jpg"
+            },
+            "room": 3,
+            "bed": 4,
+            "bath": 1,
+            "area": 732,
+            "price": 5256,
+            "popular": false,
+            "for": "For Sale",
+            "createdAt": ""
+        },
+        {
+            "id": 4,
+            "cityName": "London",
+            "address": {
+                "loactionRaod": "8558 Green Rd.",
+                "locationAddress": "Spring lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330"
+            },
+            "images": {
+                "img1": "assets/Cadillac Escalade 1.jpg",
+                "img2": "assets/Cadillac Escalade 2.jpg",
+                "img3": "assets/Cadillac Escalade 3.jpg",
+                "img4": "assets/Cadillac Escalade 2.jpg"
+            },
+            "room": 3,
+            "bed": 4,
+            "bath": 1,
+            "area": 732,
+            "price": 5256,
+            "popular": true,
+            "for": "For Rent",
+            "createdAt": ""
+        },
+        {
+            "id": 5,
+            "cityName": "Mumbai",
+            "address": {
+                "loactionRaod": "8558 Green Rd.",
+                "locationAddress": "RCE Theaters - 907 S Beckford Dr,Henderson, NC 27536"
+            },
+            "images": {
+                "img1": "assets/BMW4SeriesGTI1.jpg",
+                "img2": "assets/BMW4SeriesGTI2.jpg",
+                "img3": "assets/BMW4SeriesGTI3.jpg",
+                "img4": "assets/BMW4SeriesGTI2.jpg"
+            },
+            "room": 3,
+            "bed": 4,
+            "bath": 1,
+            "area": 732,
+            "price": 5256,
+            "popular": true,
+            "for": "For Rent",
+            "createdAt": ""
+        },
+        {
+            "id": 6,
+            "cityName": "London",
+            "address": {
+                "loactionRaod": "8558 Green Rd.",
+                "locationAddress": "Dollar General - 5416 Rock Quarry Rd,Raleigh, NC 27610"
+            },
+            "images": {
+                "img1": "assets/BMW4Series1.jpg",
+                "img2": "assets/BMW4Series2.jpg",
+                "img3": "assets/BMW4Series3.jpg",
+                "img4": "assets/BMW4Series2.jpg"
+            },
+            "room": 3,
+            "bed": 4,
+            "bath": 1,
+            "area": 732,
+            "price": 5256,
+            "popular": true,
+            "for": "For Rent",
+            "createdAt": ""
+        },
+        {
+            "id": 7,
+            "cityName": "London",
+            "address": {
+                "loactionRaod": "3890 Poplar Dr.",
+                "locationAddress": "Regal North Hills - 4150 Main at North Hills St, Releigh"
+            },
+            "images": {
+                "img1": "assets/VolkswagenTCross1.jpg",
+                "img2": "assets/VolkswagenTCross2.jpg",
+                "img3": "assets/VolkswagenTCross3.jpg",
+                "img4": "assets/VolkswagenTCross2.jpg"
+            },
+            "room": 3,
+            "bed": 4,
+            "bath": 1,
+            "area": 732,
+            "price": 5256,
+            "popular": true,
+            "for": "For Sale",
+            "createdAt": ""
+        },
+        {
+            "id": 8,
+            "cityName": "Paris",
+            "address": {
+                "loactionRaod": "8558 Green Rd.",
+                "locationAddress": "Spring lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330"
+            },
+            "images": {
+                "img1": "assets/Cadillac Escalade 1.jpg",
+                "img2": "assets/Cadillac Escalade 2.jpg",
+                "img3": "assets/Cadillac Escalade 3.jpg",
+                "img4": "assets/Cadillac Escalade 2.jpg"
+            },
+            "room": 3,
+            "bed": 4,
+            "bath": 1,
+            "area": 732,
+            "price": 5256,
+            "popular": true,
+            "for": "For Rent",
+            "createdAt": ""
+        },
+        {
+            "id": 9,
+            "cityName": "London",
+            "address": {
+                "loactionRaod": "8558 Pecan St.",
+                "locationAddress": "RCE Theaters - 907 S Beckford Dr,Henderson, NC 27536"
+            },
+            "images": {
+                "img1": "assets/ToyotaRAV41.png",
+                "img2": "assets/ToyotaRAV42.png",
+                "img3": "assets/ToyotaRAV43.png",
+                "img4": "assets/ToyotaRAV42.png"
+            },
+            "room": 3,
+            "bed": 4,
+            "bath": 1,
+            "area": 732,
+            "price": 7255,
+            "popular": false,
+            "for": "For Rent",
+            "createdAt": ""
+        },
+        {
+            "id": 10,
+            "cityName": "New York",
+            "address": {
+                "loactionRaod": "3890 Poplar Dr.",
+                "locationAddress": "Regal North Hills - 4150 Main at North Hills St, Releigh"
+            },
+            "images": {
+                "img1": "assets/VolkswagenTCross1.jpg",
+                "img2": "assets/VolkswagenTCross2.jpg",
+                "img3": "assets/VolkswagenTCross3.jpg",
+                "img4": "assets/VolkswagenTCross2.jpg"
+            },
+            "room": 3,
+            "bed": 4,
+            "bath": 1,
+            "area": 732,
+            "price": 5256,
+            "popular": true,
+            "for": "For Sale",
+            "createdAt": ""
+        },
+        {
+            "id": 11,
+            "cityName": "Paris",
+            "address": {
+                "loactionRaod": "8558 Pecan St.",
+                "locationAddress": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536"
+            },
+            "images": {
+                "img1": "assets/ToyotaRAV41.png",
+                "img2": "assets/ToyotaRAV42.png",
+                "img3": "assets/ToyotaRAV43.png",
+                "img4": "assets/ToyotaRAV42.png"
+            },
+            "room": 3,
+            "bed": 4,
+            "bath": 1,
+            "area": 732,
+            "price": 7255,
+            "popular": false,
+            "for": "For Rent",
+            "createdAt": ""
+        },
+        {
+            "id": 12,
+            "cityName": "New York",
+            "address": {
+                "loactionRaod": "8558 Parker Rd.",
+                "locationAddress": "Costco Wholesale - 1021 Oak Forest ln, Myrtle Beach, SC"
+            },
+            "images": {
+                "img1": "assets/BMW3Series1.jpg",
+                "img2": "assets/BMW3Series2.jpg",
+                "img3": "assets/BMW3Series3.jpg",
+                "img4": "assets/BMW3Series2.jpg"
+            },
+            "room": 3,
+            "bed": 4,
+            "bath": 1,
+            "area": 732,
+            "price": 7255,
+            "popular": true,
+            "for": "For Rent",
+            "createdAt": ""
+        },
+        {
+            "id": 13,
+            "cityName": "Mumbai",
+            "address": {
+                "loactionRaod": "3890 Poplar Dr.",
+                "locationAddress": "Regal North Hills - 4150 Main at North Hills St, Releigh"
+            },
+            "images": {
+                "img1": "assets/VolkswagenTCross1.jpg",
+                "img2": "assets/VolkswagenTCross2.jpg",
+                "img3": "assets/VolkswagenTCross3.jpg",
+                "img4": "assets/VolkswagenTCross2.jpg"
+            },
+            "room": 3,
+            "bed": 4,
+            "bath": 1,
+            "area": 732,
+            "price": 5256,
+            "popular": true,
+            "for": "For Sale",
+            "createdAt": ""
+        }
+    ]
+}

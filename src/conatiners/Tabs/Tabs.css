@@ -1,0 +1,18 @@
+.show-more {
+    background-color: #3639e2;
+    padding: 10px;
+    border-radius: 20px;
+    color: #fbfbfb;
+    font-size: 12px;
+    font-weight: 600;
+    align-items: center;
+}
+
+.tab-button {
+    border-radius: 20px;
+    border: 1px solid #3f42e3;
+    color: #3f42e3;
+    font-size: 12px;
+    font-weight: 600;
+}
+

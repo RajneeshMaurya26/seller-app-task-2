@@ -1,0 +1,15 @@
+.cardtext{
+    font-size: 12px;
+}
+.rent-sale {
+    background: white;
+    border: '#3f42e3';
+    color: '#3f42e3';
+    border-radius: '100%';
+    position: 'absolute';
+    left: '20px';
+    height: '30px';
+    width: '30px';
+    justify-content: center;
+    top: '20px'
+}
